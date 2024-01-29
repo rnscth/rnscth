@@ -2,7 +2,7 @@
 
 ## Senior Software Engineer
 
-🔍 Senior Software Engineer with over 5️⃣ years of hands-on experience in building robust and scalable applications. 🛠 Tech Stack: 🌐 Frontend: React, Next.js, JavaScript, TypeScript, Tailwind, CSS 🛢 Backend: Django, Supabase 📂 Databases: MSSQL, SQLite, MySQL, MongoDB 🌍 Working on leveling up my DevOps skills! 🚀 I thrive on challenge and constantly set goals for myself, ensuring I always stay aligned with the latest industry trends and best practices. I'm passionate about writing clean and maintainable code that delivers powerful functionality and provides an optimal user experience. 🤝 Let's collaborate! Reach out if you want to work together or discuss any potential projects or ideas.
+🔍 Software Engineer with over 5️⃣ years of hands-on experience in building robust and scalable applications. 🛠 Tech Stack: 🌐 Frontend: React, Next.js, JavaScript, TypeScript, Tailwind, CSS 🛢 Backend: Django, Supabase 📂 Databases: MSSQL, SQLite, MySQL, MongoDB 🌍 Working on leveling up my DevOps skills! 🚀 I thrive on challenge and constantly set goals for myself, ensuring I always stay aligned with the latest industry trends and best practices. I'm passionate about writing clean and maintainable code that delivers powerful functionality and provides an optimal user experience. 🤝 Let's collaborate! Reach out if you want to work together or discuss any potential projects or ideas.
 
 - 🌍  I'm based in Mexicali, Mexico
 - ✉️  You can contact me at [rnscth@gmail.com](mailto:rnscth@gmail.com)
